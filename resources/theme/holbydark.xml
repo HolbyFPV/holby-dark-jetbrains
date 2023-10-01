@@ -1,4 +1,4 @@
-<scheme name="Holby Dark" version="142" parent_scheme="Darcula">
+<scheme name="Holby Dark" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
         <property name="created">2023-06-04T12:54:06</property>
