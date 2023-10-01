@@ -11,8 +11,8 @@
     "infoForeground": "#f0f6fc",
     "foregroundColor": "#e6edf3",
     "notificationBackground": "lightBackgroundColor",
-    "selectionBackground": "#1c2128",
-    "selectionForeground": "#f0f6fc"
+    "selectionBackground": "#7ce38b",
+    "selectionForeground": "#1c2128"
   },
   "ui": {
     "*": {
@@ -113,7 +113,6 @@
       },
       "shortcutForeground": "accentColor"
     },
-    "EditorPane.inactiveBackground": "#21262d",
     "EditorTabs": {
       "underlinedTabBackground": "lightBackgroundColor"
     },
