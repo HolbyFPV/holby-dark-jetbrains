@@ -999,13 +999,13 @@
         </option>
         <option name="INLINE_PARAMETER_HINT_CURRENT">
             <value>
-                <option name="FOREGROUND" value="c9d1d9" />
+                <option name="FOREGROUND" value="7ce38b" />
                 <option name="BACKGROUND" value="48709b" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
-                <option name="FOREGROUND" value="c9d1d9" />
+                <option name="FOREGROUND" value="7ce38b" />
                 <option name="BACKGROUND" value="68737e" />
             </value>
         </option>
