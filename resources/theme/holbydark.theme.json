@@ -188,7 +188,7 @@
       "background": "backgroundColor",
       "disabledForeground": "#5c6370",
       "hoverBackground": "#1c2128",
-      "lightSelectionBackground": "#1c2128",
+      "lightSelectionBackground": "lightBackgroundColor",
       "tagBackground": "#414855",
       "tagForeground": "#e6edf3",
       "Button": {
@@ -294,7 +294,7 @@
     },
     "ToolWindow": {
       "background": "backgroundColor",
-      "Button.selectedForeground": "#backgroundColor",
+      "Button.selectedForeground": "backgroundColor",
       "Button.selectedBackground": "accentColor",
       "Button": {
         "hoverBackground": "#1c2128",
@@ -338,16 +338,6 @@
         "backgroundBase": "#5c6370",
         "foreground": "#e6edf3"
       }
-    },
-    "WelcomeScreen": {
-      "borderColor": "borderColor",
-      "Projects": {
-        "actions.background": "#1c2128",
-        "selectionInactiveBackground": "#2c313a"
-      },
-      "separatorColor": "#2c313a",
-      "SidePanel.background": "backgroundColor",
-      "Details.background": "backgroundColor"
     }
   },
   "icons": {
